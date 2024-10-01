@@ -1,0 +1,17 @@
+:root {
+    primary-color: hsl(204, 70%, 53%);
+    secondary-color: #0b150f;
+    text-color: #333333;
+    background-color: #000000;
+}
+body {
+    color: var(--text-color);
+    background-color: var(--background-color);
+}
+button {
+    background-color:blue;
+    color: #010101;
+}
+button:hover {
+    background-color:#00a2c2
+}
